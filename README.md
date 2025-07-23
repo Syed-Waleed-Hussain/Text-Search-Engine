@@ -62,7 +62,7 @@ gcc main.c -o TextSearchEngine -lsfml-graphics -lsfml-window -lsfml-system
 # 🔍 Text Search Engine using SFML – Theory of Automata Project
 
 This is a GUI-based **Text Search Engine** developed using **C/C++ and SFML (Simple and Fast Multimedia Library)**. It implements basic **regular expression matching** and file manipulation functionalities through a visually interactive interface.
-
+```
 ---
 
 ## ⚙️ Compilation & Note
